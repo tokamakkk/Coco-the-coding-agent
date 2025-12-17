@@ -1,0 +1,16 @@
+{
+  "steps": [
+    "Analyze the user's coding task description to extract requirements and constraints.",
+    "Clarify ambiguous requirements by identifying edge cases and assumptions.",
+    "Select appropriate programming languages, frameworks, and tools based on task requirements.",
+    "Design the solution architecture and define data structures or interfaces.",
+    "Implement core functionality in logical, testable units.",
+    "Integrate components and ensure proper communication between modules.",
+    "Write unit tests for each component and integration tests for the system.",
+    "Debug and fix issues identified during testing.",
+    "Optimize code for performance, readability, and maintainability.",
+    "Document the code, including comments and usage examples.",
+    "Validate the final implementation against all requirements.",
+    "Package and prepare the solution for deployment or delivery."
+  ]
+}
